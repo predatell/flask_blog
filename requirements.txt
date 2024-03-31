@@ -1,0 +1,11 @@
+flask
+sqlalchemy
+Flask-SQLAlchemy
+Flask-Bcrypt
+psycopg2-binary
+marshmallow
+pyjwt
+python-dotenv
+pytest
+pytest-cov
+markdown
